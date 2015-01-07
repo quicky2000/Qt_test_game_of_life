@@ -1,0 +1,2 @@
+CFLAGS:-I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4 -I. -I.
+LDFLAGS:-L/usr/lib -lQtGui -lQtCore -lpthread 
